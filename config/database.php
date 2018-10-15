@@ -38,7 +38,7 @@ return [
             /*
              * These settings are set by the installer and are stored in storage/app/database.ini
              */
-            //'host'      => env('DB_HOST', '127.0.0.1'),
+            //'host'      => env('DB_HOST', 'localhost'),
             //'database'  => env('DB_DATABASE', 'contentify'),
             //'username'  => env('DB_USERNAME', 'root'),
             //'password'  => env('DB_PASSWORD', ''),
